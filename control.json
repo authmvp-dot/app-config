@@ -1,5 +1,5 @@
 {
-  "global_block": false,
+  "global_block": true,
   "apps": {
     "1": {
       "name": "AIMKILL PVT",
