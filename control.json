@@ -1,5 +1,5 @@
 {
-  "global_block": true,
+  "global_block": false,
   "apps": {
     "1": {
       "name": "AIMKILL PVT",
@@ -186,7 +186,7 @@
       "notice": "Normal"
     },
     "24": {
-      "name": "REAL AIMKILL - hopper",
+      "name": "REAL  AIMKILL - hopper",
       "block_app": false,
       "show_functions": true,
       "version": "1.0",
