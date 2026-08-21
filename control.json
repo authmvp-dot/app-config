@@ -4,7 +4,7 @@
     "1": {
       "name": "AIMKILL PVT",
       "block_app": false,
-      "show_functions": true,
+      "show_functions": false,
       "version": "1.4",
       "download_url": "https://t.me/yourlink",
       "notice": "Welcome to AIMKILL PVT"
