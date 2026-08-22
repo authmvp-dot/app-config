@@ -1,5 +1,5 @@
 {
   "status": "ON",
-  "show_functions": false,
+  "show_functions": true,
   "notice": "⚠️ Server functions are under maintenance."
 }
